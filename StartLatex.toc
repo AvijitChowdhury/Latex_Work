@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Graphical Abstract}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Keywords}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Methodology}{2}{section.2}%
+\contentsline {section}{\numberline {3}Country}{3}{section.3}%
+\contentsline {section}{\numberline {4}hyperlink and url}{4}{section.4}%
+\contentsline {section}{\numberline {5}second page}{5}{section.5}%
+\contentsline {section}{\numberline {6}About computer vision}{5}{section.6}%
+\contentsline {section}{\numberline {7}Deep Learning}{5}{section.7}%
+\contentsline {section}{\numberline {8}Results}{6}{section.8}%
+\contentsline {section}{\numberline {9}Mathematical Expressions}{6}{section.9}%
+\contentsline {section}{\numberline {10}Discussion}{7}{section.10}%
+\contentsline {section}{\numberline {11}Conclusion}{7}{section.11}%
+\contentsline {section}{\numberline {12}Acknowledgement}{7}{section.12}%
