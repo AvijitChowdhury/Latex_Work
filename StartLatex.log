@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.7)  8 DEC 2024 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.7)  9 DEC 2024 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -337,74 +337,315 @@ Package: relsize 2013/03/29 ver 4.1
 \c@algocf=\count305
 \algocf@algoframe=\box63
 \algocf@algobox=\box64
-) (K:\Miktex\tex/latex/l3backend\l3backend-pdftex.def
+) (K:\Miktex\tex/latex/pgfplots\pgfplots.sty (K:\Miktex\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (K:\Miktex\tex/latex/pgf/frontendlayer\tikz.sty (K:\Miktex\tex/latex/pgf/basiclayer\pgf.sty (K:\Miktex\tex/latex/pgf/utilities\pgfrcs.sty (K:\Miktex\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+) (K:\Miktex\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box65
+) (K:\Miktex\tex/generic/pgf/utilities\pgfrcs.code.tex (K:\Miktex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/latex/pgf/basiclayer\pgfcore.sty (K:\Miktex\tex/latex/pgf/systemlayer\pgfsys.sty (K:\Miktex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+ (K:\Miktex\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count306
+\c@pgf@countb=\count307
+\c@pgf@countc=\count308
+\c@pgf@countd=\count309
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count310
+ (K:\Miktex\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (K:\Miktex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (K:\Miktex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count311
+\pgfsyssoftpath@bigbuffer@items=\count312
+) (K:\Miktex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (K:\Miktex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (K:\Miktex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
+ (K:\Miktex\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/generic/pgf/math\pgfmath.code.tex (K:\Miktex\tex/generic/pgf/math\pgfmathutil.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count313
+\pgfmath@box=\box66
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathcalc.code.tex) (K:\Miktex\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count314
+)) (K:\Miktex\tex/generic/pgf/math\pgfint.code.tex) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box67
+\pgf@hbox=\box68
+\pgf@layerbox@main=\box69
+\pgf@picture@serial@count=\count315
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count316
+\pgf@shadingcount=\count317
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box70
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (K:\Miktex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box71
+) (K:\Miktex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (K:\Miktex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
+) (K:\Miktex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (K:\Miktex\tex/latex/pgf/utilities\pgffor.sty (K:\Miktex\tex/latex/pgf/utilities\pgfkeys.sty (K:\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex)) (K:\Miktex\tex/latex/pgf/math\pgfmath.sty (K:\Miktex\tex/generic/pgf/math\pgfmath.code.tex)) (K:\Miktex\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+)) (K:\Miktex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count318
+\pgfplotmarksize=\dimen271
+)
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box72
+\tikz@figbox@bg=\box73
+\tikz@tempbox=\box74
+\tikz@tempbox@bg=\box75
+\tikztreelevel=\count319
+\tikznumberofchildren=\count320
+\tikznumberofcurrentchild=\count321
+\tikz@fig@count=\count322
+ (K:\Miktex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count323
+\pgfmatrixcurrentcolumn=\count324
+\pgf@matrix@numberofcolumns=\count325
+)
+\tikz@expandcount=\count326
+ (K:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (K:\Miktex\tex/generic/pgfplots\pgfplots.code.tex (K:\Miktex\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen280
+\c@pgfplots@coordindex=\count327
+\c@pgfplots@scanlineindex=\count328
+ (K:\Miktex\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (K:\Miktex\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (K:\Miktex\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (K:\Miktex\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+(K:\Miktex\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (K:\Miktex\tex/generic/pgfplots/util\pgfplotsutil.code.tex (K:\Miktex\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (K:\Miktex\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (K:\Miktex\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count329
+) (K:\Miktex\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (K:\Miktex\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count330
+\t@pgfplotstable@a=\toks47
+) (K:\Miktex\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (K:\Miktex\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (K:\Miktex\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (K:\Miktex\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (K:\Miktex\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count331
+ (K:\Miktex\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (K:\Miktex\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (K:\Miktex\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (K:\Miktex\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (K:\Miktex\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (K:\Miktex\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (K:\Miktex\tex/generic/pgfplots\pgfplots.scaling.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplots.markers.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplotsticks.code.tex) (K:\Miktex\tex/generic/pgfplots\pgfplots.paths.code.tex) (K:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (K:\Miktex\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen281
+\pgfdecoratedremainingdistance=\dimen282
+\pgfdecoratedinputsegmentcompleteddistance=\dimen283
+\pgfdecoratedinputsegmentremainingdistance=\dimen284
+\pgf@decorate@distancetomove=\dimen285
+\pgf@decorate@repeatstate=\count332
+\pgfdecorationsegmentamplitude=\dimen286
+\pgfdecorationsegmentlength=\dimen287
+)
+\tikz@lib@dec@box=\box76
+) (K:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (K:\Miktex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (K:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (K:\Miktex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (K:\Miktex\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count333
+\pgfplots@xmin@reg=\dimen288
+\pgfplots@xmax@reg=\dimen289
+\pgfplots@ymin@reg=\dimen290
+\pgfplots@ymax@reg=\dimen291
+\pgfplots@zmin@reg=\dimen292
+\pgfplots@zmax@reg=\dimen293
+) (K:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (K:\Miktex\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (K:\Miktex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count306
-\l__pdf_internal_box=\box65
+\l__color_backend_stack_int=\count334
+\l__pdf_internal_box=\box77
 ) (StartLatex.aux)
 \openout1 = `StartLatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package hyperref Info: Link coloring OFF on input line 47.
  (StartLatex.out) (StartLatex.out)
-\@outlinefile=\write3
-\openout3 = `StartLatex.out'.
+\@outlinefile=\write4
+\openout4 = `StartLatex.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (K:\Miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen174
-\scratchbox=\box66
-\nofMPsegments=\count308
-\nofMParguments=\count309
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen175
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count335
+\scratchdimen=\dimen294
+\scratchbox=\box78
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen295
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks49
 ) (K:\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (K:\Miktex\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (StartLatex.lof)
-\tf@lof=\write4
-\openout4 = `StartLatex.lof'.
+))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(StartLatex.lof)
+\tf@lof=\write5
+\openout5 = `StartLatex.lof'.
 
  (StartLatex.lot)
-\tf@lot=\write5
-\openout5 = `StartLatex.lot'.
+\tf@lot=\write6
+\openout6 = `StartLatex.lot'.
 
  (StartLatex.toc)
-\tf@toc=\write6
-\openout6 = `StartLatex.toc'.
+\tf@toc=\write7
+\openout7 = `StartLatex.toc'.
 
 
 
 [1{C:/Users/aviji/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 63--79
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
 
  []
 
@@ -415,75 +656,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--79
 [3]
 
 [4]
-<vision.jpg, id=136, 301.125pt x 168.63pt>
+<vision.jpg, id=144, 301.125pt x 168.63pt>
 File: vision.jpg Graphic file (type jpg)
 <use vision.jpg>
-Package pdftex.def Info: vision.jpg  used on input line 149.
+Package pdftex.def Info: vision.jpg  used on input line 153.
 (pdftex.def)             Requested size: 150.56212pt x 84.31479pt.
 File: vision.jpg Graphic file (type jpg)
 <use vision.jpg>
-Package pdftex.def Info: vision.jpg  used on input line 155.
+Package pdftex.def Info: vision.jpg  used on input line 159.
 (pdftex.def)             Requested size: 150.56212pt x 84.31479pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
 File: vision.jpg Graphic file (type jpg)
 <use vision.jpg>
-Package pdftex.def Info: vision.jpg  used on input line 167.
+Package pdftex.def Info: vision.jpg  used on input line 171.
 (pdftex.def)             Requested size: 150.56212pt x 84.31479pt.
 
-Overfull \hbox (12.56422pt too wide) in paragraph at lines 167--168
+Overfull \hbox (12.56422pt too wide) in paragraph at lines 171--172
 [][] 
  []
 
-<deeplearning.png, id=138, 288.07625pt x 176.66pt>
+<deeplearning.png, id=146, 288.07625pt x 176.66pt>
 File: deeplearning.png Graphic file (type png)
 <use deeplearning.png>
-Package pdftex.def Info: deeplearning.png  used on input line 172.
+Package pdftex.def Info: deeplearning.png  used on input line 176.
 (pdftex.def)             Requested size: 144.03777pt x 88.32977pt.
 
-Overfull \hbox (6.03987pt too wide) in paragraph at lines 172--173
+Overfull \hbox (6.03987pt too wide) in paragraph at lines 176--177
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 
  []
 
 
 
 [5 <./vision.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 
 
-[6 <./deeplearning.png>] (StartLatex.bbl)
+[6 <./deeplearning.png>]
 
-[7] (StartLatex.aux)
+[7]
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+(StartLatex.bbl
+
+[8])
+
+[9] (StartLatex.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `StartLatex.out' has not changed.
-(rerunfilecheck)             Checksum: D57CA9E4297E0B131C59A5DCD60D9B78;1582.
+(rerunfilecheck)             Checksum: 48CE317E7AD9E5B4673180FF34826ADD;1665.
  ) 
 Here is how much of TeX's memory you used:
- 12703 strings out of 473682
- 199602 string characters out of 5735771
- 609487 words of memory out of 5000000
- 35569 multiletter control sequences out of 15000+600000
+ 33582 strings out of 473682
+ 772514 string characters out of 5735771
+ 1315621 words of memory out of 5000000
+ 56098 multiletter control sequences out of 15000+600000
  566446 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,485b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,107p,715b,1954s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aviji\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><K:/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmti10.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb><K:/Miktex/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on StartLatex.pdf (7 pages, 302481 bytes).
+Output written on StartLatex.pdf (9 pages, 314254 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

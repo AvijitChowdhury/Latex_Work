@@ -2,7 +2,8 @@
 
 
 \usepackage{inputenc}
-\usepackage{url,hyperref}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
 \usepackage{paralist}
 \usepackage{enumitem}
 \usepackage{fancyhdr}
@@ -12,6 +13,9 @@
 \usepackage{colortbl}
 \usepackage{amsmath}
 \usepackage{algorithm2e}
+\usepackage{pgfplots}
+
+\pgfplotsset{compat= 1.18, width= 10cm}
 \pagestyle{fancy}
 %list of figures
 
@@ -27,7 +31,7 @@ Chattogram- 4369, Bangladesh\\%
     December 2024   }
 
 % header and footer
-\lhead{chapter 1}
+\lhead{Chapter }
 \chead{Paper}
 \rhead{1}
 \renewcommand{\headrulewidth}{0 pt}
@@ -258,6 +262,29 @@ Mathematical Expressions for the deep learning \ref{eq:e} and \ref{eq:ln} and \r
     \end{bmatrix}
 \end{equation}
 
+%graph
+\begin{tikzpicture}
+    \begin{axis}[
+        xlabel = $x$,
+        ylabel = $f(x)$
+    ]
+    \addplot{sin(deg(x))};
+    \end{axis}
+\end{tikzpicture}
+
+\section{2D plot}
+
+\begin{tikzpicture}
+    
+    \begin{axis}[xmin= -2, xmax = 2, ymin=-5, ymax= 5,%color
+        axis lines = middle,
+        xlabel = $x$,
+        ylabel = $y$,
+        title = {Graph of $y = x^{2}$ and $y = x^{3}$}]
+    \addplot[color=pink, dashed, mark=*, samples= 50]{(x^2)};
+    \addplot[color=blue, dotted, mark=*, samples= 50]{(x^3)};
+    \end{axis}
+\end{tikzpicture}
 
 
 \section{Discussion}
@@ -266,7 +293,10 @@ Mathematical Expressions for the deep learning \ref{eq:e} and \ref{eq:ln} and \r
 
 
 \bibliographystyle{ieeetr}
-\bibliography{ref.bib}
+\bibliography{ref}
+
+\cite{zhou2021blockchain}
+\cite{xiao2022novel}
 % \section{References}
 % \begin{thebibliography}{9}
 % \bibitem{1} Avijit Chowdhury, 2024, "Artificial Intelligence and Machine Learning", Springer
@@ -280,5 +310,4 @@ Mathematical Expressions for the deep learning \ref{eq:e} and \ref{eq:ln} and \r
 
 
 
-\end{document}
 \end{document}
